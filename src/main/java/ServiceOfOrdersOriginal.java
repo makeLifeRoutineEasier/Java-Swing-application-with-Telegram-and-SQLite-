@@ -306,7 +306,7 @@ public class ServiceOfOrdersOriginal extends javax.swing.JFrame {
         jLabel8.setText("Техно-комфорт");
 
         jLabel11.setFont(new java.awt.Font("GOST type A", 0, 14)); // NOI18N
-        jLabel11.setText("пос. Пригородный, ул. Центральная, 1А");
+        jLabel11.setText(" ");
 
         jComboBox2.setBackground(new java.awt.Color(255, 255, 255));
         jComboBox2.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
