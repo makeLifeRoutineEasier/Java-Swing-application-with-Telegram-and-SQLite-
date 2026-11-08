@@ -22,5 +22,3 @@ SQLite: For data storage and operations.
 
 🚀 Write me to launch. 
 
-I'm waiting something notes about my project. Comments and fix things are welcome :)
-
